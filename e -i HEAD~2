@@ -1,0 +1,36 @@
+[33mcommit 93b1d82e06b9e0e5f381f63b57dadcace1f3f652[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: snobrien09 <snobrien09@gmail.com>
+Commit: snobrien09 <snobrien09@gmail.com>
+
+    Initial commit
+
+[33mcommit 019374aa62372abea70eb30e930baa09066c833d[m
+Author: obx4710 <obx4710@gmail.com>
+Commit: obx4710 <obx4710@gmail.com>
+
+    change back src/App.jsx to original
+
+[33mcommit 36961adff9b7c6688538abe1df9307476cf8ff94[m
+Author: obx4710 <obx4710@gmail.com>
+Commit: obx4710 <obx4710@gmail.com>
+
+    add src/model and src/db
+
+[33mcommit 0f0a073e73822b3aa336ce4d617c4f48d5195c01[m
+Merge: 521727e 1316a88
+Author: obx4710 <obx4710@gmail.com>
+Commit: obx4710 <obx4710@gmail.com>
+
+    Resolve README merge
+
+[33mcommit 521727e43e075ac66d26d637464ed344661681a9[m
+Author: obx4710 <obx4710@gmail.com>
+Commit: obx4710 <obx4710@gmail.com>
+
+    Initial commit
+
+[33mcommit 1316a88e1dfdce5511ece4744cb4d4c21ac8d168[m
+Author: Sophie O. <snobrien09@gmail.com>
+Commit: GitHub <noreply@github.com>
+
+    Initial commit
